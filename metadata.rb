@@ -1,0 +1,7 @@
+name             'tmux'
+maintainer       'YOUR_NAME'
+maintainer_email 'YOUR_EMAIL'
+license          'All rights reserved'
+description      'Installs/Configures tmux'
+long_description 'Installs/Configures tmux'
+version          '0.1.0'
